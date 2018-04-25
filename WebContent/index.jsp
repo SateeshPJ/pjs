@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is first Git Project
+This is first Git Project in Github
 </body>
 </html>
