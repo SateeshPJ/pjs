@@ -5,8 +5,19 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+<script type="text/javascript">
+
+function(){
+	var x;
+	alert("yyyyyyyyy"+y);
+	alert("xxxxx"+x);	
+	
+}
+
+
+</script>
 </head>
-<body>
-This is first Git Project in Github
+<body >
+This is first Git Project in Github 
 </body>
 </html>
